@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FlipNeves/FlipNeves/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FlipNeves/FlipNeves/9afaf1386c1ba66acf6d00d5676ef027904c45cb/snake.svg" alt="Snake animation" />
 
 ###
