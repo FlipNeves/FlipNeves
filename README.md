@@ -74,7 +74,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FlipNeves/FlipNeves/9afaf1386c1ba66acf6d00d5676ef027904c45cb/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/FlipNeves/FlipNeves/main/dist/snake-dark.svg" alt="Snake animation" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
 </div>
 
