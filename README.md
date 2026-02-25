@@ -46,15 +46,11 @@
 </div>
 
 
-###  &nbsp;Stats
+### &nbsp;Stats
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FlipNeves&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&hide_title=true&rank_icon=github" alt="stats"/>
-</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlipNeves&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph"/>
 </div>
-
 ---
 
 ### 🌐 &nbsp;Connect
