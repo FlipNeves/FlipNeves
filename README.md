@@ -28,7 +28,7 @@
 ### &nbsp;Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,rabbitmq,redis,postgres,git&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,rabbitmq,redis,postgres,mongodb&perline=8" alt="Tech Stack" />
 </div>
 
 ### &nbsp;Expertise
