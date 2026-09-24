@@ -48,7 +48,6 @@
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=FlipNeves&theme=tokyo-night&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://ghchart.rshah.org/22c55e/FlipNeves" alt="Contribution Graph" width="90%"/>
 </div>
 
 ---
